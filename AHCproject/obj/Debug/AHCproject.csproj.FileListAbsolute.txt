@@ -1,0 +1,8 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\AHCproject\AHCproject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\AHCproject\AHCproject\obj\Debug\AHCproject.Form1.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\AHCproject\AHCproject\obj\Debug\AHCproject.Properties.Resources.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\AHCproject\AHCproject\obj\Debug\AHCproject.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\AHCproject\AHCproject\bin\Debug\AHCproject.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\AHCproject\AHCproject\bin\Debug\AHCproject.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\AHCproject\AHCproject\obj\Debug\AHCproject.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\AHCproject\AHCproject\obj\Debug\AHCproject.pdb
